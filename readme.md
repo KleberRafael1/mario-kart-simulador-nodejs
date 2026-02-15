@@ -227,13 +227,13 @@ Este projeto exercita fundamentos essenciais de desenvolvimento backend:
 ### 1️⃣ Clonar o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/mario-kart-js.git
+git clone https://github.com/KleberRafael1/mario-kart-simulador-nodejs.git
 ```
 
 ### 2️⃣ Acessar a pasta
 
 ```bash
-cd mario-kart-js
+cd mario-kart-simulador-nodejs
 ```
 
 ### 3️⃣ Executar no Node.js
@@ -298,7 +298,7 @@ O próximo passo será evoluir para uma versão **interativa com interface web**
 
 ## ✍️ Autor
 
-Projeto Desenvolvido pelo professor da Dio **Felipão** durante o Bootcamp de Node.JS<br>
-Regras extras e melhorias desenvolvida por **Kleber Rafael**<br>
+Projeto Desenvolvido junto com o professor da Dio **Felipão** durante o Bootcamp de Node.JS<br>
+Regras extras e melhorias desenvolvidas por **Kleber Rafael**<br>
 Projeto educacional com foco em prática de lógica e JavaScript backend.
 
